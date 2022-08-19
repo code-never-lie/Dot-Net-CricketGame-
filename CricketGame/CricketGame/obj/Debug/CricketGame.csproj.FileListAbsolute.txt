@@ -1,0 +1,77 @@
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.CricketGame.resources
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.CricketGame.resources
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.csprojResolveAssemblyReference.cache
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.Cache
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.Main.resources
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.TeamA_Players_Display.resources
+C:\Users\ShazaiB SarwaR\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.TeamB_Players_Display.resources
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.csprojResolveAssemblyReference.cache
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.Main.resources
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.TeamA_Players_Display.resources
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.TeamB_Players_Display.resources
+C:\Users\ShazaiB SarwaR\Documents\Visual Studio 2013\Projects\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.Cache
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.csprojResolveAssemblyReference.cache
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.Main.resources
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.TeamA_Players_Display.resources
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.TeamB_Players_Display.resources
+E:\01 - Study\6th Semester\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.Cache
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.csprojResolveAssemblyReference.cache
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.Main.resources
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.TeamA_Players_Display.resources
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.TeamB_Players_Display.resources
+E:\01 - Study\6th\Software Construction and Development\Theory\All Assignments Final\Assignment 2\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.Main.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.TeamA_Players_Display.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.TeamB_Players_Display.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (B)\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
